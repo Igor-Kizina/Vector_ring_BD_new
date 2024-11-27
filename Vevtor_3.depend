@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1732647866 source:c:\prog\vevtor_3\functions.cpp
+	"Header.h"
+
+1732647665 c:\prog\vevtor_3\header.h
+	<iostream>
+	<vector>
+
+1732647692 source:c:\prog\vevtor_3\main.cpp
+	"Header.h"
+
+1732647866 source:c:\users\igork\desktop\gitpev\vevtor_3\functions.cpp
+	"Header.h"
+
+1732740566 c:\users\igork\desktop\gitpev\vevtor_3\header.h
+	<iostream>
+	<vector>
+
+1732647692 source:c:\users\igork\desktop\gitpev\vevtor_3\main.cpp
+	"Header.h"
+
